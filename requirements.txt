@@ -1,0 +1,11 @@
+streamlit
+google-genai
+sentence-transformers
+faiss-cpu
+PyMuPDF
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+transformers
